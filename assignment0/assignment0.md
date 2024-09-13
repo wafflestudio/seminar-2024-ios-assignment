@@ -32,8 +32,10 @@
 - 로그아웃: 버튼을 눌러 첫 화면으로 되돌아올 때, 모든 상태가 초기화되도록 합니다
   - (아이디 및 비밀번호 UITextField 입력값 등)
 
+
 ### 기본 스펙만 구현한 경우
-https://github.com/user-attachments/assets/44a74ce8-5624-427c-af72-bcd2ea907edf
+https://github.com/user-attachments/assets/3836b745-f122-4d17-a1a3-244e9654041a
+
 
 ## Bonus 스펙 (2개 구현 시 Grace Day +1)
 - 아이디를 입력하는 UITextField에 영어를 입력하면 자동으로 첫 글자가 대문자가 됩니다. 어떻게 해결할 수 있을까요?
@@ -41,5 +43,6 @@ https://github.com/user-attachments/assets/44a74ce8-5624-427c-af72-bcd2ea907edf
   - hint: UserDefaults
 
 ### 모든 Bonus 스펙을 구현한 경우
-https://github.com/user-attachments/assets/1060ec80-7c78-4394-a52a-eaf6910e0019
+https://github.com/user-attachments/assets/81565baa-d9bd-435e-8738-269267cd974d
+
 
