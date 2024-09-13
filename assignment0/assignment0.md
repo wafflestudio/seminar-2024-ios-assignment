@@ -26,9 +26,11 @@
 - 모든 UITextField의 height는 기본값을 사용합니다 (따로 설정 필요X)
 - 모든 UITextField는 입력하는 동안 오른쪽에 x 버튼이 뜨도록 합니다
 - 비밀번호를 입력하는 UITextField는 입력값이 ●로 마스킹되도록 설정합니다
-- UITextField에서 입력 후 “Enter” 키를 눌렀을 때, id가 조건을 만족하고 password가 비어 있지 않은 경우에만 로그인 버튼을 활성화합니다
-- 로그아웃 버튼을 눌러 첫 화면으로 되돌아오는 경우, 모든 상태가 초기화되도록 합니다
-  - 아이디 및 비밀번호 UITextField 입력값, 로그인 버튼 활성화 상태
+
+### UIButton
+- 로그인: id가 조건을 만족하고 password가 비어 있지 않은 경우에만 다음 화면으로 넘어갑니다
+- 로그아웃: 버튼을 눌러 첫 화면으로 되돌아올 때, 모든 상태가 초기화되도록 합니다
+  - (아이디 및 비밀번호 UITextField 입력값 등)
 
 ### 기본 스펙만 구현한 경우
 https://github.com/user-attachments/assets/44a74ce8-5624-427c-af72-bcd2ea907edf
