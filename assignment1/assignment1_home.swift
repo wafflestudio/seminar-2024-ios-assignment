@@ -18,12 +18,8 @@ class HomeViewController: UIViewController {
     }
 }
 
-extension HomeViewController: UITableViewDelegate {
+extension HomeViewController: UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        // TODO: Implement
-    }
-    
-    func numberOfSections(in tableView: UITableView) -> Int {
         // TODO: Implement
     }
     
@@ -32,7 +28,7 @@ extension HomeViewController: UITableViewDelegate {
     }
 }
 
-extension HomeViewController: UITableViewDataSource {
+extension HomeViewController: UITableViewDelegate {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         // TODO: Implement
     }
