@@ -38,7 +38,7 @@
 
 
 ### 기본 스펙만 구현한 경우
-
+https://github.com/user-attachments/assets/651b317b-bd8d-480d-8940-54f15e0e2f6a
 
 
 ## Bonus 스펙 (2개 구현 시 Grace Day +1)
@@ -52,3 +52,5 @@
     - hint: NSAttributedString
 
 ### 모든 Bonus 스펙을 구현한 경우
+https://github.com/user-attachments/assets/81eca1fc-89fc-444b-83a6-8d231bf1674e
+
