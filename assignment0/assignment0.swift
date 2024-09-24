@@ -39,7 +39,3 @@ class ViewController: UIViewController {
     
     // TODO
 }
-
-extension ViewController: UITextFieldDelegate {
-    // TODO
-}
