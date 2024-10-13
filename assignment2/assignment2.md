@@ -60,7 +60,7 @@
   - hint: UserDefaults
 
 ### 기본 스펙만 구현한 경우
-
+https://github.com/user-attachments/assets/2363043b-1920-4028-9926-745ce1118512
 
 
 ## Bonus 스펙 (2개 구현 시 Grace Day +1)
@@ -75,4 +75,6 @@
   - [사용할 API](https://developer.themoviedb.org/reference/movie-credits)
 
 ### 모든 Bonus 스펙을 구현한 경우
+https://github.com/user-attachments/assets/595a63bd-0236-4918-a437-e0a50a1beed8
+
 
