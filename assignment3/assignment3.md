@@ -54,3 +54,5 @@
     - 홈 화면에는 새로 추가된 Todo가 바로 보여야 합니다
 
 ### 구현 예시 영상
+https://github.com/user-attachments/assets/4aa95aa4-80b7-4322-ae17-88de2d26dded
+
